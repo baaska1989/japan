@@ -1,0 +1,29 @@
+<template>
+
+  <main class="l_container_main_body">
+
+    <h1 class="m_section_heading m_heading_lv1">{{$t("attraction.header")}}</h1>
+
+    <div class="m_section wysiwyg">
+      <h2>
+        {{$t("attraction.h2")}}
+      </h2>
+      <h3>{{$t("attraction.h3")}}</h3>
+      <p>{{$t("attraction.p1")}}
+        <br>
+        {{$t("attraction.p2")}}        <br>
+        {{$t("attraction.p3")}}
+        <br>
+        {{$t("attraction.p4")}}
+      </p>
+    </div>
+  </main>
+
+</template>
+<script>
+
+</script>
+
+<style scoped>
+
+</style>
